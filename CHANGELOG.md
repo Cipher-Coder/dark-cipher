@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## Initial release
+
+- Create theme from the Blakai theme and all modifications I have made to my own config files
+
+- Make sure all italics are applied as well

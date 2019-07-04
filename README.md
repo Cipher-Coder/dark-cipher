@@ -1,14 +1,22 @@
 # README
+
 ## This is the README for "dark-cipher" - A Dark Theme for VS Code
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+### This theme is based on the [Blakai theme](https://vscodethemes.com/e/asilverio.blackai-visual-studio-code), A blacked Monokai based theme for Visual Studio Code.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A lot of the colors have been altered. ex:
+
+- The Activity Bar
+- Activity bar badges
+- The status bar has been changed to blue
+- Small thin line added at the top to separate the editor
+- Line numbers - Blue / Active Line numbers - Orange
+
+I have also added some different italics for JavaScript and TypeScript
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+- [Dark-Cipher Theme](https://github.com/Cipher-Coder/dark-cipher)
+- [Blakai Theme](https://vscodethemes.com/e/asilverio.blackai-visual-studio-code)
 
 **Enjoy!**
