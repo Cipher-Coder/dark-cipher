@@ -14,14 +14,25 @@ A lot of the colors have been altered. ex:
 
 I have also added some different italics for:
 
-* JavaScript 
-* TypeScript
-* Go
-* Ruby
+- JavaScript
+- TypeScript
+- Go
+- Ruby
 
 ### For more information
 
 - [Dark-Cipher Theme](https://github.com/Cipher-Coder/dark-cipher)
 - [Blakai Theme](https://vscodethemes.com/e/asilverio.blackai-visual-studio-code)
 
+Some Screenshots
+
+![JSON/JS Screenshot](assets/jsonJs.png)
+_JSON / JavaScript Screenshot_
+
+&nbsp;
+
+![HTML / CSS Screenshots](assets/htmlCssScreenshot.png)
+_HTML / CSS Screenshot_
+
+&nbsp;
 **Enjoy!**
