@@ -12,7 +12,12 @@ A lot of the colors have been altered. ex:
 - Small thin line added at the top to separate the editor
 - Line numbers - Blue / Active Line numbers - Orange
 
-I have also added some different italics for JavaScript and TypeScript
+I have also added some different italics for:
+
+* JavaScript 
+* TypeScript
+* Go
+* Ruby
 
 ### For more information
 

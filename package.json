@@ -1,21 +1,21 @@
 {
-    "name": "dark-cipher",
-    "displayName": "Dark Cipher",
-    "description": "A Dark Theme for VS Code - This is a spinoff of the Blaki Theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.36.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark Cipher",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark Cipher-color-theme.json"
-            }
-        ]
-    }
+  "name": "dark-cipher",
+  "displayName": "Dark Cipher",
+  "description": "A Dark Theme for VS Code - This is a spinoff of the Blakai Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Cipher",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Cipher-color-theme.json"
+      }
+    ]
+  }
 }
