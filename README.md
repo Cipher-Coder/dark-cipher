@@ -26,12 +26,12 @@ I have also added some different italics for:
 
 Some Screenshots
 
-![JSON/JS Screenshot](assets/jsonJs.png)
+![JSON/JS Screenshot](https://raw.githubusercontent.com/Cipher-Coder/dark-cipher/master/assets/jsonJs.png)
 _JSON / JavaScript Screenshot_
 
 &nbsp;
 
-![HTML / CSS Screenshots](assets/htmlCssScreenshot.png)
+![HTML / CSS Screenshots](https://raw.githubusercontent.com/Cipher-Coder/dark-cipher/master/assets/htmlCssScreenshot.png)
 _HTML / CSS Screenshot_
 
 &nbsp;
