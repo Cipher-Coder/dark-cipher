@@ -9,3 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Create theme from the Blakai theme and all modifications I have made to my own config files
 
 - Make sure all italics are applied
+
+# Version 0.0.2
+
+- Added contrastBorder color `#2b2a2a` around the sidebars

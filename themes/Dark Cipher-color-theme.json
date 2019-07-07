@@ -13,6 +13,7 @@
     "badge.foreground": "#000000",
     "button.background": "#434343",
     "button.hoverBackground": "#545454",
+    "contrastBorder": "#2b2a2a",
     "debugToolBar.background": "#11110f",
     "diffEditor.insertedTextBackground": "#66852880",
     "diffEditor.removedTextBackground": "#90274a80",
