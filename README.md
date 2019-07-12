@@ -43,4 +43,9 @@ _HTML / CSS Screenshot_
 - Place a copy of the entire folder in the extensions directory
 - Open VS Code and go to 'Settings' then select 'color theme' and select 'dark-cipher'
 
+## To Update
+
+- Go into the the main directory of the extension and open a CLI
+- Run `git pull origin master`
+
 **Enjoy!**
