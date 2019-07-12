@@ -10,6 +10,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Make sure all italics are applied
 
-# Version 0.0.2
+# Version 0.0.2 - 07/07/2019
 
 - Added contrastBorder color `#2b2a2a` around the sidebars
+- Changed the color of the matching tags for HTML and others
+- Changed the color of highlight matching occurrence of words
