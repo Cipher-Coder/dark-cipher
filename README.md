@@ -11,6 +11,8 @@ A lot of the colors have been altered. ex:
 - The status bar has been changed to blue
 - Small thin line added at the top to separate the editor
 - Line numbers - Blue / Active Line numbers - Orange
+- Tab - active and inactive
+- title bar
 
 I have also added some different italics for:
 
