@@ -9,6 +9,7 @@ All notable changes to the "dark-cipher" extension will be documented in this fi
 - Changed Title Bar to a darker color (same as activityBar)
 - Changed tabs to a slightly darker to match title and activity bars
 - Took out line highlight
+- Changed active tab border to make it easier to see what tab is being worked with.
 
 ## Version [0.0.2] - 2019-07-12
 
