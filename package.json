@@ -3,7 +3,8 @@
   "displayName": "Dark Cipher",
   "description": "A Dark Theme for VS Code",
   "version": "0.0.3",
-  "icon": "/assets/logo128X128.png",
+  "publisher": "Mattaz",
+  "icon": "assets/logo128X128.png",
   "galleryBanner": {
     "color": "#1c1c1c",
     "theme": "dark"
