@@ -1,7 +1,7 @@
 {
   "name": "dark-cipher",
   "displayName": "Dark Cipher",
-  "description": "A Dark Theme for VS Code - This is a spinoff of the Blakai Theme",
+  "description": "A Dark Theme for VS Code",
   "version": "0.0.3",
   "engines": {
     "vscode": "^1.36.0"

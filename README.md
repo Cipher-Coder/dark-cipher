@@ -38,16 +38,4 @@ _HTML / CSS Screenshot_
 
 &nbsp;
 
-## How to use:
-
-- Clone or download the Repository
-- Go to your extensions folder in the .vscode directory - in Windows it is in `C:\Users\YourName\.vscode\extensions` and on Linux the directory is in `~/home/.vscode/extensions`
-- Place a copy of the entire folder in the extensions directory
-- Open VS Code and go to 'Settings' then select 'color theme' and select 'dark-cipher'
-
-## To Update
-
-- Go into the the main directory of the extension and open a CLI
-- Run `git pull origin master`
-
 **Enjoy!**
