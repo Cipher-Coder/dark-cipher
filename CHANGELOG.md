@@ -4,6 +4,12 @@ All notable changes to the "dark-cipher" extension will be documented in this fi
 
 ## [Unreleased]
 
+## Version [0.0.4] - 2020-04-18
+
+- Change colors of the bottom status bar to fit theme better.
+- Changed the colors of the tracked files that have been modified, untracked, and deleted
+- Turned off semantic highlighting by default
+
 ## Version [0.0.3] - 2019-08-20
 
 - Changed Title Bar to a darker color (same as activityBar)

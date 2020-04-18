@@ -4,7 +4,7 @@
 
 This theme is based on the [Blakai theme](https://vscodethemes.com/e/asilverio.blackai-visual-studio-code), A blacked Monokai based theme for Visual Studio Code.
 
-> In the version 1.43 of VS Code, they have turned on semantic code highlighting as the default option. Semantic Highlighting will collid with this theme's highlighting. If you want to keep the sematic highlighting that VS Code has, then do nothing. However, if you would rather utilize this themes highlighting, simply turn off the semantic highlighting feature by adding `"editor.semanticHighlighting.enabled": false,` to your settings json.
+> In version 1.43 of VS Code, semantic code highlighting is turned on by default. Semantic Highlighting will collid with this theme's highlighting and many of the language colors will not show up. Because of this, semantic highlighting is shut off by default. If you would like to turn it on, place this snippet in your `settings.json` file. `"editor.semanticHighlighting.enabled": true` .
 
 A lot of the colors have been altered. ex:
 
@@ -39,5 +39,7 @@ _JSON / JavaScript Screenshot_
 _HTML / CSS Screenshot_
 
 &nbsp;
+
+If you have any suggestions or requests, feel free to submit them!
 
 **Enjoy!**
