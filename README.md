@@ -1,6 +1,6 @@
 # README
 
-## This is the README for [Dark-Cipher](https://vscodethemes.com/e/Mattaz.dark-cipher) - A Dark Theme for VS Code
+## [Dark-Cipher](https://vscodethemes.com/e/Mattaz.dark-cipher) - A Dark Theme for VS Code
 
 This theme is based on the [Blakai theme](https://vscodethemes.com/e/asilverio.blackai-visual-studio-code), A blacked Monokai based theme for Visual Studio Code.
 
@@ -30,13 +30,13 @@ I have also added some different italics for:
 
 Some Screenshots
 
-![JSON/JS Screenshot](https://raw.githubusercontent.com/Cipher-Coder/dark-cipher/master/assets/jsonJs.png)
-_JSON / JavaScript Screenshot_
+![JSON/JS Screenshot](/assets/screenShot1.png)
+_HTML / CSS Screenshot_
 
 &nbsp;
 
-![HTML / CSS Screenshots](https://raw.githubusercontent.com/Cipher-Coder/dark-cipher/master/assets/htmlCssScreenshot.png)
-_HTML / CSS Screenshot_
+![HTML / CSS Screenshots](/assets/screenShot2.png)
+_React / JavaScript Screenshot_
 
 &nbsp;
 
