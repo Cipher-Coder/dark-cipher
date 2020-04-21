@@ -1,3 +1,5 @@
+[![Downloads for Dark-Cipher](https://img.shields.io/visual-studio-marketplace/d/Mattaz.dark-cipher)](https://marketplace.visualstudio.com/items?itemName=Mattaz.dark-cipher)
+
 # README
 
 ## [Dark-Cipher](https://vscodethemes.com/e/Mattaz.dark-cipher) - A Dark Theme for VS Code
