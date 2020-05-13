@@ -4,6 +4,10 @@ All notable changes to the "dark-cipher" extension will be documented in this fi
 
 ## [Unreleased]
 
+## Version [0.0.5] - 2020-05-13
+
+- Changed the color of the git modified file back to a yellowish, orange to better differentiate it from removed files
+
 ## Version [0.0.4] - 2020-04-18
 
 - Change colors of the bottom status bar to fit theme better.
