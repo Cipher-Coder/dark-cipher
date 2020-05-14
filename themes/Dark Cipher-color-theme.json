@@ -42,7 +42,7 @@
     "editor.wordHighlightBackground": "#2d30eea1",
     "focusBorder": "#464646",
     "gitDecoration.deletedResourceForeground": "#df312b",
-    "gitDecoration.modifiedResourceForeground": "#c2a70d",
+    "gitDecoration.modifiedResourceForeground": "#0da7c2",
     "gitDecoration.untrackedResourceForeground": "#47cc76",
     "input.background": "#464446",
     "inputOption.activeBorder": "#75715e",
