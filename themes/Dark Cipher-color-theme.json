@@ -5,7 +5,7 @@
   "type": "dark",
   "colors": {
     "activityBar.background": "#161616",
-    "activityBar.dropBackground": "#414339",
+    "activityBar.dropBorder": "#414339",
     "activityBar.foreground": "#0df7f7",
     "activityBar.inactiveForeground": "#3e665d",
     "activityBarBadge.background": "#ffc600",
